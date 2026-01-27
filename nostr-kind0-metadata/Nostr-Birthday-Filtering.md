@@ -1,6 +1,6 @@
 # Nostr Birthday Filtering
 
-**Related:** [Kind-0 Metadata Proposal](./Proposal.md)
+**Related:** [Kind-0 Metadata Proposal](./README.md)
 
 ---
 
